@@ -6,5 +6,5 @@ conda activate ./env
 conda install -c apple tensorflow-deps
 python -m pip install tensorflow-macos==2.7
 python -m pip install tensorflow-metal==0.3
-pip install numpy pandas scikit-learn matplotlib jupyter
+pip install numpy pandas scikit-learn matplotlib jupyter nltk keras-tuner
 ```
